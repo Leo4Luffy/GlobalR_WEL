@@ -1,0 +1,22 @@
+---
+title: "GlobalR_WEL"
+description: |
+  Un trabajo para la selección de animales resilientes
+site: distill::distill_website
+---
+
+## Bienvenido
+
+Este es un sitio web donde se puede observar los materiales usados para la socialización de los resultados de mi trabajo de doctorado, ya sea estos presentaciones mediante diapositivas, posters, entre otros documentos.
+
+## Documentos de socialización
+
+### Diapositivas
+
+1. Presentación de prueba sobre el tema de fenómica. [Aquí](https://leo4luffy.github.io/Repo_TFM/) encontraras más información al respecto.
+
+<iframe src="https://diapo-feno.netlify.app" width="100%" height="450px"></iframe>
+
+### Posters
+
+
